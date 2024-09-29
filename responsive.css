@@ -1,0 +1,15 @@
+@media only screen and (max-width: 480px) {
+  .wrapper {
+    max-width: 320px;
+  }
+
+  #all-Clear {
+    padding: 3px 7px;
+    border-radius: 3px;
+  }
+
+  .filters span {
+    font-size: 13px;
+    margin-left: 8px;
+  }
+}
